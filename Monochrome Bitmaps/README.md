@@ -1,4 +1,4 @@
-# Monochrome master
+# Monochrome Bitmaps
 
 Нека упражним малко елементарна битова аритметика.
 
