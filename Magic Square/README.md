@@ -8,3 +8,4 @@
 magic_square? [[1, 1], [1, 1]] # true
 magic_square? [[1, 2], [1, 1]] # false
 ```
+

@@ -43,4 +43,3 @@ describe "Binary Mobile" do
     expect(a_bm.weight).to eq 23.8
   end
 end
-
