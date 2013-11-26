@@ -13,6 +13,7 @@ Name  | README  | Implementation | Tests | Source
 **Monochrome Bitmaps** | [README](Monochrome Bitmaps/README.md) | [Implementation](Monochrome Bitmaps/monochrome_bitmaps.rb) | [Tests](spec/monochrome_bitmaps_spec.rb) | [FMI](http://2012.fmi.ruby.bg/challenges/4)
 **Music Collection** | [README](Music Collection/README.md) | [Implementation](Music Collection/music_collection.rb) | [Tests](spec/music_collection_spec.rb) | [FMI](http://2012.fmi.ruby.bg/tasks/2)
 **Robot** | [README](Robot/README.md) | [Implementation](Robot/robot.rb) | [Tests](spec/robot_spec.rb) | [FMI](http://2012.fmi.ruby.bg/challenges/6)
+**Zigzag** | [README](Zigzag/README.md) | [Implementation](Zigzag/zigzag.rb) | [Tests](spec/zigzag_spec.rb) | [FMI](http://fmi.ruby.bg/challenges/1)
 
 # Helpers and fiddles
 
