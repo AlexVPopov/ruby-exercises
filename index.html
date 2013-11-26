@@ -1,37 +1,42 @@
-<!DOCTYPE html>
+<!doctype html>
+<!-- The Time Machine GitHub pages theme was designed and developed by Jon Rohan, on Feb 7, 2012. -->
+<!-- Follow him for fun. http://twitter.com/jonrohan. Tail his code on http://github.com/jonrohan -->
 <html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <head>
-    <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="Ruby-exercises : A general repo with some random Ruby exercises" />
+  <link rel="stylesheet" href="stylesheets/stylesheet.css" media="screen"/>
+  <link rel="stylesheet" href="stylesheets/pygment_trac.css"/>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script type="text/javascript" src="javascripts/script.js"></script>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-    <base href="http://www.github.com/alexvpopov/ruby-exercises/tree/master/">
-    <title>Ruby-exercises</title>
-  </head>
+  <title>Ruby-exercises</title>
+  <meta name="description" content="A general repo with some random Ruby exercises">
 
-  <body>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/AlexVPopov/ruby-exercises">View on GitHub</a>
+</head>
 
-          <h1 id="project_title">Ruby-exercises</h1>
-          <h2 id="project_tagline">A general repo with some random Ruby exercises</h2>
+<body>
 
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/AlexVPopov/ruby-exercises/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/AlexVPopov/ruby-exercises/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h1>
+  <div class="wrapper">
+    <header>
+      <h1 class="title">Ruby-exercises</h1>
+    </header>
+    <div id="container">
+      <p class="tagline">A general repo with some random Ruby exercises</p>
+      <div id="main" role="main">
+        <div class="download-bar">
+        <div class="inner">
+          <a href="https://github.com/AlexVPopov/ruby-exercises/tarball/master" class="download-button tar"><span>Download</span></a>
+          <a href="https://github.com/AlexVPopov/ruby-exercises/zipball/master" class="download-button zip"><span>Download</span></a>
+          <a href="https://github.com/AlexVPopov/ruby-exercises" class="code">View Ruby-exercises on GitHub</a>
+        </div>
+        <span class="blc"></span><span class="trc"></span>
+        </div>
+        <article class="markdown-body">
+          <h1>
 <a name="ruby-exercises" class="anchor" href="#ruby-exercises"><span class="octicon octicon-link"></span></a>Ruby exercises</h1>
 
 <p>This is a collection of implementations of short algorithmic exercises, solved in Ruby. The exercises come from a variety of places such as a <a href="http://fmi.ruby.bg/">Ruby course</a> I visited in FMI, <a href="http://projecteuler.net/">Project Euler</a> and others.</p>
@@ -70,6 +75,13 @@
 <td><a href="http://2012.fmi.ruby.bg/challenges/2">FMI</a></td>
 </tr>
 <tr>
+<td><strong>Homogenize</strong></td>
+<td><a href="Homogenize/README.md">README</a></td>
+<td><a href="Homogenize/homogenize.rb">Implementation</a></td>
+<td><a href="spec/homogenize_spec.rb">Tests</a></td>
+<td><a href="http://fmi.ruby.bg/challenges/2">FMI</a></td>
+</tr>
+<tr>
 <td><strong>Magic Square</strong></td>
 <td><a href="Magic%20Square/README.md">README</a></td>
 <td><a href="Magic%20Square/magic_square.rb">Implementation</a></td>
@@ -90,20 +102,59 @@
 <td><a href="spec/music_collection_spec.rb">Tests</a></td>
 <td><a href="http://2012.fmi.ruby.bg/tasks/2">FMI</a></td>
 </tr>
+<tr>
+<td><strong>Robot</strong></td>
+<td><a href="Robot/README.md">README</a></td>
+<td><a href="Robot/robot.rb">Implementation</a></td>
+<td><a href="spec/robot_spec.rb">Tests</a></td>
+<td><a href="http://2012.fmi.ruby.bg/challenges/6">FMI</a></td>
+</tr>
+<tr>
+<td><strong>Zigzag</strong></td>
+<td><a href="Zigzag/README.md">README</a></td>
+<td><a href="Zigzag/zigzag.rb">Implementation</a></td>
+<td><a href="spec/zigzag_spec.rb">Tests</a></td>
+<td><a href="http://fmi.ruby.bg/challenges/1">FMI</a></td>
+</tr>
 </tbody>
+</table><h1>
+<a name="helpers-and-fiddles" class="anchor" href="#helpers-and-fiddles"><span class="octicon octicon-link"></span></a>Helpers and fiddles</h1>
+
+<p>These are things I have played with or written for solving problems I have had or just found interesting:</p>
+
+<table>
+<thead><tr>
+<th>Name</th>
+<th>README</th>
+<th>Code</th>
+</tr></thead>
+<tbody><tr>
+<td><strong>Polynomial</strong></td>
+<td><a href="Equation%20Solver/README.md">README</a></td>
+<td><a href="Equation%20Solver/equation_solver.rb">Code</a></td>
+</tr></tbody>
 </table>
-      </section>
+        </article>
+      </div>
     </div>
+    <footer>
+      <div class="owner">
+      <p><a href="https://github.com/AlexVPopov" class="avatar"><img src="https://2.gravatar.com/avatar/058744c91d324bf29bb5423b5ce7bdde?d=https%3A%2F%2Fidenticons.github.com%2F3c9d09b128aecc20180163c7ae2c019b.png&amp;r=x&amp;s=60" width="48" height="48"/></a> <a href="https://github.com/AlexVPopov">AlexVPopov</a> maintains <a href="https://github.com/AlexVPopov/ruby-exercises">Ruby-exercises</a></p>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Ruby-exercises maintained by <a href="https://github.com/AlexVPopov">AlexVPopov</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
 
-              <script type="text/javascript">
+      </div>
+      <div class="creds">
+        <small>This page generated using <a href="http://pages.github.com/">GitHub Pages</a><br/>theme by <a href="https://twitter.com/jonrohan/">Jon Rohan</a></small>
+      </div>
+    </footer>
+  </div>
+  <div class="current-section">
+    <a href="#top">Scroll to top</a>
+    <a href="https://github.com/AlexVPopov/ruby-exercises/tarball/master" class="tar">tar</a><a href="https://github.com/AlexVPopov/ruby-exercises/zipball/master" class="zip">zip</a><a href="" class="code">source code</a>
+    <p class="name"></p>
+  </div>
+
+            <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
           </script>
@@ -114,6 +165,5 @@
             } catch(err) {}
           </script>
 
-
-  </body>
+</body>
 </html>
