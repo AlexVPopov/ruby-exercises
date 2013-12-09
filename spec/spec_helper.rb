@@ -1,6 +1,7 @@
 require_relative '../Abomination/abomination'
 require_relative '../Binary Mobile/binary_mobile'
 require_relative '../Caesar Cipher/caesar_cipher'
+require_relative '../Enumerable split_up/split_up'
 require_relative '../Homogenize/homogenize'
 require_relative '../Longest Sequence/longest_sequence'
 require_relative '../Magic Square/magic_square'

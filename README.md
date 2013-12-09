@@ -9,6 +9,7 @@ Name  | README  | Implementation | Tests | Source
 **Abomination** | [README](Abomination/README.md) | [Implementation](Abomination/abomination.rb) | [Tests](spec/abomination_spec.rb) | [FMI](http://2012.fmi.ruby.bg/challenges/5)
 **Binary Mobile** | [README](Binary Mobile/README.md) | [Implementation](Binary Mobile/binary_mobile.rb) | [Tests](spec/binary_mobile_spec.rb) | [FMI](http://2012.fmi.ruby.bg/challenges/3)
 **Caesar Cipher** | [README](Caesar Cipher/README.md) | [Implementation](Caesar Cipher/caesar_cipher.rb) | [Tests](spec/caesar_cipher_spec.rb) | [FMI](http://2012.fmi.ruby.bg/challenges/2)
+**Enumerable#split_up** | [README](Enumerable split_up/README.md) | [Implementation](Enumerable split_up/split_up.rb) | [Tests](spec/split_up_spec.rb) | [FMI](http://fmi.ruby.bg/challenges/5)
 **Homogenize** | [README](Homogenize/README.md) | [Implementation](Homogenize/homogenize.rb) | [Tests](spec/homogenize_spec.rb) | [FMI](http://fmi.ruby.bg/challenges/10)
 **Longest Sequence** | [README](Longest Sequence/README.md) | [Implementation](Longest Sequence/longest_sequence.rb) | [Tests](spec/longest_sequence_spec.rb) | [FMI](http://fmi.ruby.bg/challenges/10)
 **Magic Square** | [README](Magic Square/README.md) | [Implementation](Magic Square/magic_square.rb) | [Tests](spec/magic_square_spec.rb) | [FMI](http://2012.fmi.ruby.bg/challenges/1)
