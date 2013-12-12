@@ -17,14 +17,7 @@ Name  | README  | Implementation | Tests | Source
 **Music Collection** | [README](Music Collection/README.md) | [Implementation](Music Collection/music_collection.rb) | [Tests](spec/music_collection_spec.rb) | [FMI](http://2012.fmi.ruby.bg/tasks/2)
 **Object#thread** | [README](Object thread/README.md) | [Implementation](Object thread/object_thread.rb) | [Tests](spec/object_thread_spec.rb) | [FMI](http://fmi.ruby.bg/challenges/3)
 **Partition** | [README](Partition/README.md) | [Implementation](Partition/partition.rb) | [Tests](spec/partition_spec.rb) | [FMI](http://fmi.ruby.bg/challenges/4)
+**Polynomial** | [README](Polynomial/README.md) | [Implementation](Polynomial/polynomial.rb)| [Tests](spec/polynomial_spec.rb) | [FMI](http://fmi.ruby.bg/challenges/6)
 **Robot** | [README](Robot/README.md) | [Implementation](Robot/robot.rb) | [Tests](spec/robot_spec.rb) | [FMI](http://2012.fmi.ruby.bg/challenges/6)
 **To Proc** | [README](To Proc/README.md) | [Implementation](To Proc/to_proc.rb) | [Tests](spec/to_proc_spec.rb) | [FMI](http://fmi.ruby.bg/challenges/11)
 **Zigzag** | [README](Zigzag/README.md) | [Implementation](Zigzag/zigzag.rb) | [Tests](spec/zigzag_spec.rb) | [FMI](http://fmi.ruby.bg/challenges/1)
-
-# Helpers and fiddles
-
-These are things I have played with or written for solving problems I have had or just found interesting:
-
-Name | README | Code
---- | --- | ---
-**Polynomial** | [README](Polynomial/README.md) | [Code](Polynomial/polynomial.rb)
