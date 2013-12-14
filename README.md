@@ -8,6 +8,7 @@ Name  | README  | Implementation | Tests | Source
 --- | --- | --- | --- | ---
 **Abomination** | [README](Abomination/README.md) | [Implementation](Abomination/abomination.rb) | [Tests](spec/abomination_spec.rb) | [FMI](http://2012.fmi.ruby.bg/challenges/5)
 **Binary Mobile** | [README](Binary Mobile/README.md) | [Implementation](Binary Mobile/binary_mobile.rb) | [Tests](spec/binary_mobile_spec.rb) | [FMI](http://2012.fmi.ruby.bg/challenges/3)
+**Bitmap** | [README](Bitmap/README.md) | [Implementation](Bitmap/bitmap.rb) | [Tests](spec/bitmap_spec.rb) | [FMI](http://fmi.ruby.bg/challenges/7)
 **Caesar Cipher** | [README](Caesar Cipher/README.md) | [Implementation](Caesar Cipher/caesar_cipher.rb) | [Tests](spec/caesar_cipher_spec.rb) | [FMI](http://2012.fmi.ruby.bg/challenges/2)
 **Enumerable#split_up** | [README](Enumerable split_up/README.md) | [Implementation](Enumerable split_up/split_up.rb) | [Tests](spec/split_up_spec.rb) | [FMI](http://fmi.ruby.bg/challenges/5)
 **Homogenize** | [README](Homogenize/README.md) | [Implementation](Homogenize/homogenize.rb) | [Tests](spec/homogenize_spec.rb) | [FMI](http://fmi.ruby.bg/challenges/10)

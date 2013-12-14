@@ -1,4 +1,4 @@
-require 'spec_helper'
+require_relative '../Monochrome Bitmaps/monochrome_bitmaps'
 
 describe "Bitmap" do
   bitmap1 = Bitmap.new [1, 10, 100], 3
