@@ -20,5 +20,6 @@ Name  | README  | Implementation | Tests | Source
 **Partition** | [README](Partition/README.md) | [Implementation](Partition/partition.rb) | [Tests](spec/partition_spec.rb) | [FMI](http://fmi.ruby.bg/challenges/4)
 **Polynomial** | [README](Polynomial/README.md) | [Implementation](Polynomial/polynomial.rb)| [Tests](spec/polynomial_spec.rb) | [FMI](http://fmi.ruby.bg/challenges/6)
 **Robot** | [README](Robot/README.md) | [Implementation](Robot/robot.rb) | [Tests](spec/robot_spec.rb) | [FMI](http://2012.fmi.ruby.bg/challenges/6)
+**Spy** | [README](Spy/README.md) | [Implementation](Spy/spy.rb) | [Tests](spec/spy_spec.rb) | [FMI](http://fmi.ruby.bg/challenges/8)
 **To Proc** | [README](To Proc/README.md) | [Implementation](To Proc/to_proc.rb) | [Tests](spec/to_proc_spec.rb) | [FMI](http://fmi.ruby.bg/challenges/11)
 **Zigzag** | [README](Zigzag/README.md) | [Implementation](Zigzag/zigzag.rb) | [Tests](spec/zigzag_spec.rb) | [FMI](http://fmi.ruby.bg/challenges/1)
